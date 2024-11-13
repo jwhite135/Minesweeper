@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/eightAdj.png</file>
+        <file>images/fiveAdj.png</file>
+        <file>images/flaggedCell.png</file>
+        <file>images/fourAdj.png</file>
+        <file>images/oneAdj.png</file>
+        <file>images/revealedCell.png</file>
+        <file>images/sevenAdj.png</file>
+        <file>images/sixAdj.png</file>
+        <file>images/threeAdj.png</file>
+        <file>images/twoAdj.png</file>
+        <file>images/unrevealedCell.png</file>
+        <file>images/triggeredMine.png</file>
+        <file>images/revealedMine.png</file>
+    </qresource>
+</RCC>
